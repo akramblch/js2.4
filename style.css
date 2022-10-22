@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card {
+    border: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+img {
+    width: 250px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+p {
+    width: 250px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
